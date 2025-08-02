@@ -68,9 +68,9 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Watermelon-1234&theme=github_dark)
 
 # 🗣️ Contact Me
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)]((http://discordapp.com/users/725187659760402463))
+[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/725187659760402463)
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](948794harvey@gmail.com)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:948794harvey@gmail.com)
 
 # ✍️ Random Dev Quote
 
